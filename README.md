@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 5SKILL SOLUTIONS<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on 5SKILL SOLUTIONS as a Full Stack Developer<br>👯 I’m looking to collaborate on innovate projects in web and app development<br>🤝 I’m looking for help with improving collaborative development processes<br>🌱 I’m currently learning Computer Engineering at the Universitat Oberta de Catalunya<br>💬 Ask me about web development, backend systems and database management<br>⚡ Fun fact: I enjoy learning new technologies and applying them to real-world projects!
 
 
 ## 🌐 Socials:
